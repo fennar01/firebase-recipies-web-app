@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# firebase-recipes-web-app
+
+This was created to demonstrate my ability to build a full stack application.
+
+I got react and firebase initialised and working and some relatively decent logic built on the front end.
+
+#### Boilerplate Below Here...
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
